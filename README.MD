@@ -7,7 +7,7 @@ A copy of the facemash that Mark Zuckerberg made in his college days and the one
 
 The images has to be saved in the 'images' folder. 
 And the database name should be 'facemash' with the table name 'photos'.
-The table 'photos' need to have 4 columns i.e. id, photo, rating & k.
+The table 'photos' need to have 4 columns i.e. id, photo(image name), rating(150 for all) & k.
 
 
 
