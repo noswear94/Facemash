@@ -1,0 +1,68 @@
+body
+{
+	margin: 0;
+}
+
+h1
+{
+	text-align: center;
+	margin: 0;
+	color: white;
+	font-size: 2.6em;
+	font-family: Verdana, "Trebuchet MS";
+}
+
+.header
+{
+	background-color: #8B170B;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.main_wrapper
+{
+	width: 1080px;
+	margin: auto;
+	text-align: center;
+	margin-top: 35px;
+}
+
+#or
+{
+	display: inline-block;
+	position: relative;
+	bottom: 148px;
+}
+
+#photoRandom img
+{
+	height: 300px;
+}
+
+#statistics
+{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	margin: 20px;
+}
+
+#stats
+{
+	width: 1080px;
+	margin: auto;
+}
+
+.nbrVotes
+{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.photoStat
+{
+	display: inline-block;
+	border: 1px solid black;
+	margin: 10px;
+}
