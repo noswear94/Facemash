@@ -20,9 +20,9 @@ Base rating of 150 is assumed.
 
 K is used as follow:-
 
-** 10 for ratings greater than 225.**
-** 15 for ratings greater than 75 but less than 225.**
-** 25 for ratings less than 75.**
+**10 for ratings greater than 225.**
+**15 for ratings greater than 75 but less than 225.**
+**25 for ratings less than 75.**
 
 Note:- K and Base ratings vary all the time. I have thanken them just for the sake of simplification.
 
